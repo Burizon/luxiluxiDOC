@@ -37,6 +37,16 @@ In this course, you will:
 4. Create a blog post
 5. Merge your pull request
 
+## 📚 Documentation
+
+Comprehensive guides to help you get started and make the most of GitHub Pages:
+
+- **[Editing Guide](docs/editing-guide.md)** - Learn how to edit files, use Markdown, and follow best practices
+- **[Management Guide](docs/management-guide.md)** - Manage your repository, content, workflows, and team collaboration
+- **[Functions Guide](docs/functions-guide.md)** - Master Markdown, Jekyll, Git, and GitHub Actions functions
+
+These guides provide step-by-step instructions, practical examples, and tips for working with GitHub Pages effectively.
+
 ### How to start this course
 
 <!-- For start course, run in JavaScript:
